@@ -24,3 +24,6 @@ s3transfer==0.3.3
 setuptools==44.0.0
 six==1.14.0
 transip==2.1.1
+
+aliyun-python-sdk-core-v3
+aliyun-python-sdk-alidns
